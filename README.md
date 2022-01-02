@@ -1,5 +1,5 @@
 # Speedtest
-  인터넷 속도 체크
+  현재 인터넷 속도를 체크해줍니다.
 <br></br>
 # 필요한 모듈
 * speedtest-cli
